@@ -1,0 +1,21 @@
+Task 7 - Suspicious Browser Extensions Cleanup Report
+
+✅ Extensions Found:
+1. Google Docs Offline – Safe
+2. Smart Emoji Keyboard – Suspicious
+
+⚠️ Suspicious Extension Details:
+- Name: Smart Emoji Keyboard
+- Reason:
+  • Unknown developer
+  • Asked for permission to read browsing history
+  • Not required for daily use
+
+🗑️ Removed Extension:
+- Smart Emoji Keyboard (Removed)
+
+📚 What I Learned:
+- How to access and manage Chrome extensions
+- How to check permissions and developer details
+- Importance of removing unused or risky extensions
+- Learned that some extensions can monitor browsing data
